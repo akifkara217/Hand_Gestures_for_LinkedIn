@@ -8,4 +8,6 @@ According to the determined personas and scenarios, tests were performed on the 
 
 The project file includes codes, images of hand gestures, articulations, class diagram, system architecture, use case diagram, personas, scenarios and presentation slides.
 
+<img width="1073" alt="Image" src="https://github.com/user-attachments/assets/3f08811e-3099-49bf-a4a8-7b1afb1ef70f" />
+
 ![Image](https://github.com/user-attachments/assets/54168a3f-1646-4e74-a331-643ea005b186)
